@@ -39,9 +39,9 @@
 </div>
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniketdobriyal&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniketdobriyal&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketdobriyal&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniketdobriyal&theme=transparent&v=1" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniketdobriyal&theme=transparent&exclude=html,CSS,Jupyter%20Notebook&v=1" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketdobriyal&theme=transparent&exclude=html,CSS,Jupyter%20Notebook&v=1" height="180em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aniketdobriyal&theme=transparent&utcOffset=5.30" height="180em" alt="Productive Time"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketdobriyal&theme=transparent" height="180em" alt="Profile Details"/>
 </div>
