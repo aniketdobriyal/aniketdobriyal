@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="assets/header.png" alt="Header Image"/>
 </p>
 
@@ -15,13 +15,21 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Web+Development;Android+Development;Applications+Development;" width="auto" height="35" alt="Interests Typing SVG"/>
 </p>
 
-<p align="center">Currently learning - Advanced Web Development and Artificial intelligence</p>
+<p align="center">Currently learning - Advanced Web Development and Artificial Intelligence</p>
 <p align="center">Currently working on - Open Source Projects and Personal Development</p>
 
-<h3 align="center">Preferred Programming Language</h3>
+<h3 align="center">Preferred Programming Languages</h3>
 <p align="center">
   <a href="https://github.com/aniketdobriyal/Python_Programming.git" target="_blank">
-    <img align="center" src="assets/R.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/python.png" alt="Python" height="65" width="65" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/aniketdobriyal/C_Programming.git" target="_blank">
+    <img align="center" src="assets/c.png" alt="C Language" height="65" width="65" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/aniketdobriyal/Cpp_Programming.git" target="_blank">
+    <img align="center" src="assets/cpp.png" alt="C++ Language" height="65" width="65" />
   </a>
 </p>
 
