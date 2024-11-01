@@ -12,10 +12,10 @@
 
 <h3 align="center">My Interests</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Web+Development;Applications+Development;" width="auto" height="35" alt="Interests Typing SVG"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Web+Development;Android+Development;Applications+Development;" width="auto" height="35" alt="Interests Typing SVG"/>
 </p>
 
-<p align="center">Currently learning - Advanced Web Development and Machine Learning</p>
+<p align="center">Currently learning - Advanced Web Development and Artificial intelligence</p>
 <p align="center">Currently working on - Open Source Projects and Personal Development</p>
 
 <h3 align="center">Preferred Programming Language</h3>
@@ -52,15 +52,15 @@
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="mailto:aniketdobriyal@example.com" target="_blank">
+  <a href="mailto:aniketdobriyal325@gmail.com" target="_blank">
     <img align="center" src="assets/gmail.png" alt="Email" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://aniketdobriyal.me" target="_blank">
+  <a href="https://zynthara.in" target="_blank">
     <img align="center" src="assets/web.png" alt="Website" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/aniketdobriyal/" target="_blank">
+  <a href="https://linkedin.com/in/aniket-dobriyal-2d2/" target="_blank">
     <img align="center" src="assets/linkedin.png" alt="LinkedIn" height="60" width="60" />
   </a>
 </p>
