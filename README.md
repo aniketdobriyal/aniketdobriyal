@@ -21,7 +21,7 @@
 <h3 align="center">Preferred Programming Language</h3>
 <p align="center">
   <a href="https://github.com/aniketdobriyal/Python_Programming.git" target="_blank">
-    <img align="center" src="assets/python.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assets/R.png" alt="Python" height="65" width="65" />
   </a>
 </p>
 
