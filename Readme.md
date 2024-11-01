@@ -18,8 +18,14 @@
 <p align="center">Currently learning - Advanced Web Development and Artificial intelligence</p>
 <p align="center">Currently working on - Open Source Projects and Personal Development</p>
 
-<h3 align="center">Preferred Programming Language</h3>
+<h3 align="center">Preferred Programming Languages</h3>
 <p align="center">
+  <a href="https://github.com/aniketdobriyal/C_Programming.git" target="_blank">
+    <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?logo=c&logoColor=white" alt="C" height="30" width="auto" />
+  </a>
+  <a href="https://github.com/aniketdobriyal/CPP_Programming.git" target="_blank">
+    <img src="https://img.shields.io/badge/C++%20Programming-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="30" width="auto" />
+  </a>
   <a href="https://github.com/aniketdobriyal/Python_Programming.git" target="_blank">
     <img align="center" src="assets/R.png" alt="Python" height="65" width="65" />
   </a>
@@ -50,7 +56,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote"/>
 </p>
 
-
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:aniketdobriyal325@gmail.com" target="_blank">
@@ -63,6 +68,10 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/aniket-dobriyal-2d2/" target="_blank">
     <img align="center" src="assets/linkedin.png" alt="LinkedIn" height="60" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/aniketdobriyal" target="_blank">
+    <img align="center" src="assets/github.png" alt="GitHub" height="60" width="60" />
   </a>
 </p>
 
